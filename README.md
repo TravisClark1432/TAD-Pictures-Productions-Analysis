@@ -42,12 +42,17 @@ We then merged our three datasets into one master dataset. Afterward, we dropped
 ## Visualizations
 We decided to get the top 25 studios with the highest domestic gross and ROI. 
 
+![Top25StudiosDomesticGross](images/Top25StudiosDomesticGross.png)
+![Top25StudiosDomesticROI](images/Top25StudiosDomesticROI.png)
 
 Next we decided to get the top 25 studios and genres with the highest domestic profits.
 
+![Top25StudiosDomesticProfit](images/Top25StudiosDomesticProfit.png)
+![Top25GenresDomesticProfit](images/Top25GenresDomesticProfit.png)
 
 Then we got the top 10 profitable movies and the respective studio.
 
+![Top10MoviesDomesticProfit](images/Top10MoviesDomesticProfit.png)
 
 ## Simple Linear Regression Model
 We then created linear regression model of disney profits over time. Looking at our R-squared value of 0.817 indicates that 81.7% of the model accounts for variation in profit, which we find significant. Therefore we belive Disney experienced a significant change in mean profit over a period of 8 years.
