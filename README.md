@@ -1,11 +1,13 @@
 # TAD Pictures Productions Analysis of Movie Studio Profits in the US
 This github includes 
+- Images 
+    - Folder containing the images of our plots
 - zippedData
     - folder that contains all the files that we used for our analysis
     - This does not contain im.db 
-- [TAD.ipynb](/TAD.ipynb)
+- [TADProduction.ipynb](/TADProduction.ipynb)
     - Jupyter Notebook containing our analysis
-- [Presentation.pdf](https://docs.google.com/presentation/d/1aSR84Wyx84kUm45y7Mii2OQn6zQ_X2lMu7Mnc-6Q_UI/edit?usp=sharing)
+- [Presentation.pdf](/Presentation.pdf)
     - pdf of our powerpoint 
 ## BLUF 
 - Disney has profited the most domestically by over $1B 
