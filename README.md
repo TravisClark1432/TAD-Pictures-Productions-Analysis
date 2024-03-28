@@ -36,9 +36,9 @@ Data was taken from 3 sources - IMDb, Box Office Mojo, the Numbers. The metric w
 ## Data Exploring 
 We were given six data files with information on movie performance. Upon exploring the data, we created a master dataset that takes information from the three data files we felt are most relevant to our analysis.
 ## Data Cleaning
-We first normalize the movie titles by removing space and punctuation. Then we renamed each column name in the three datasets to be the same for merge purposes. Also we renamed major movie titles that were spelled differently. We then decided to filter each dataset to be from 2010 to 2018.
+We first normalized the movie titles by removing spaces and punctuation. Then, we renamed each column name in the three datasets to ensure consistency for merging purposes. Additionally, we corrected major movie titles that were spelled differently. Finally, we filtered each dataset to include only entries from 2010 to 2018.
 ## Merging the DataFrames
-We then merged our three datasets into one master dataset. Then we dropped unnessary columns that wasn't needed for our analysis. Next we calculated our ROI and Profits column. Then we imputed a couple missing genres and studios from well known movies. 
+We then merged our three datasets into one master dataset. Afterward, we dropped unnecessary columns that weren't needed for our analysis. Next, we calculated our ROI and Profits columns. Finally, we imputed a couple of missing genres and studios for well-known movies. 
 ## Visualizations
 We decided to get the top 25 studios with the highest domestic gross and ROI. 
 
